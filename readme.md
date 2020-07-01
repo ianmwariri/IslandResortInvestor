@@ -1,4 +1,4 @@
-# APPLICATION NAME: Private Island Resort Website
+# Application Name: Private Island Resort Website
 #### This system will showcase the different amenities provided at the Luxurious HolidayInn Private Resort, created on 01/01/2020.
 #### By Ian
 ## DESCRIPTION
